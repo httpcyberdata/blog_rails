@@ -33,7 +33,9 @@ Create, read, edit/update & delete items.
     - iTerm2
 ## Coding styles I used:
 
-`		# DO: 
+1. Indent with tab for better readibility
+```
+		# DO: 
 			if cookies[:user_id]
 				User.find(cookies[:user_id])
 			end
@@ -42,7 +44,8 @@ Create, read, edit/update & delete items.
 		if cookies[:user_id]
 		User.find(cookies[:user_id])`			end
 
-	
+
+```
 
 ## What I learned
 
