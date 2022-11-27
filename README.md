@@ -1,24 +1,36 @@
-# README
+#  Rails blog
+Tutorial URL: https://www.youtube.com/watch?v=MGNc6qCZBmE&t=168s
+Tutorial description: In this episode, you'll see how to implement a simple email and password authentication system from scratch. We'll talk about how auth works, but in practice, you should use a gem like devise or another well tested, (ideally open source) tool for authentication. This is only to see how some of the pieces of authentication work. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+___________
 
-Things you may want to cover:
+### Software versions
+	Rails versin: 6.1.7 
+	Ruby version: 3.0.0
 
-* Ruby version
+## How to run 
+1. Clone / download
+2. Run bundle install
+3. Start Postgresql server
+4. rails s
 
-* System dependencies
 
-* Configuration
+## Problems in the project:
+1.
+2.
 
-* Database creation
+## How to use
+Create, read, edit/update & delete items.
 
-* Database initialization
+### Photos of project:
+![]()
+![]()
 
-* How to run the test suite
+## Apps used:
+	- Postgres.app
+    - Sublime Text
+    - iTerm2
+## Coding styles I used:
 
-* Services (job queues, cache servers, search engines, etc.)
+## What I learned
 
-* Deployment instructions
-
-* ...
