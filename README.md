@@ -23,8 +23,8 @@ ___________
 Create, read, edit/update & delete items.
 
 ### Photos of project:
-![]()
-![]()
+![](/app/assets/images/blog_rails.gif)
+![](/app/assets/images/blog_rails_.png)
 
 ## Apps used:
 	- Postgres.app
@@ -34,3 +34,4 @@ Create, read, edit/update & delete items.
 
 ## What I learned
 
+- I learned again how cookies function and how easy it is in a simple application about changing the values of cookies in DevTools and watch the application render changes and I learned how cookies work in authentication like on a POST request the browser hashes some data and the server decrypts the hash.
