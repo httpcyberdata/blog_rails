@@ -1,4 +1,5 @@
 #  Rails blog
+![](/app/assets/images/header.png)
 Tutorial URL: https://www.youtube.com/watch?v=MGNc6qCZBmE&t=168s
 Tutorial description: In this episode, you'll see how to implement a simple email and password authentication system from scratch. We'll talk about how auth works, but in practice, you should use a gem like devise or another well tested, (ideally open source) tool for authentication. This is only to see how some of the pieces of authentication work. 
 
