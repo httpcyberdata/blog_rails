@@ -13,7 +13,7 @@ ___________
 1. Clone / download
 2. Run bundle install
 3. Start Postgresql server
-4. rails s
+4. Run rails s
 
 
 ## Problems in the project:
@@ -32,6 +32,17 @@ Create, read, edit/update & delete items.
     - Sublime Text
     - iTerm2
 ## Coding styles I used:
+
+`		# DO: 
+			if cookies[:user_id]
+				User.find(cookies[:user_id])
+			end
+
+		# DONT: 
+		if cookies[:user_id]
+		User.find(cookies[:user_id])`			end
+
+	
 
 ## What I learned
 
