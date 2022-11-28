@@ -42,7 +42,8 @@ Create, read, edit/update & delete items.
 
 		# DONT: 
 		if cookies[:user_id]
-		User.find(cookies[:user_id])`			end
+		User.find(cookies[:user_id])`			
+		end
 
 
 ```
@@ -50,3 +51,7 @@ Create, read, edit/update & delete items.
 ## What I learned
 
 - I learned again how cookies function and how easy it is in a simple application about changing the values of cookies in DevTools and watch the application render changes and I learned how cookies work in authentication like on a POST request the browser hashes some data and the server decrypts the hash.
+
+- I also learned that to log out a user, the developer must delete the cookie manually or by a program. Because the system remembers the user until the cookie is deleted upon a "Log out" button is clicked. While the cookie is saved, it stores the hash and every request the that cookie & hash follows.
+
+- I learned that the server will look up the encrypted & signed session and the server will look up the information for that user and send it back to the browser to show that information. So I compare if this was an app with millions of users, things would be repetitve and standardized as there is already placeholders for each user's information and for millions of users, display that same information per user.
