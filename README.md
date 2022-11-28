@@ -26,6 +26,7 @@ Create, read, edit/update & delete items.
 ### Photos of project:
 ![](/app/assets/images/blog_rails.gif)
 ![](/app/assets/images/blog_rails_.png)
+![](/app/assets/images/_blog_rails_error.gif)
 
 ## Apps used:
 	- Postgres.app
